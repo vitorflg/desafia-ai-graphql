@@ -1,0 +1,21 @@
+{
+  "name": "desafia-ai-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graphql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vitorflg",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-lambda": "^2.24.0",
+    "dynamoose": "^2.7.3",
+    "graphql": "^15.5.0",
+    "node-fetch": "^2.6.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^7.0.0"
+  }
+}
